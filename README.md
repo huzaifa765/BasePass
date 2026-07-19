@@ -37,7 +37,12 @@ BasePass is a permanent onchain identity protocol on Base mainnet. Create your W
 🔗 [View on BaseScan](https://basescan.org/address/0x720d2b64be46a35a12f4730a8c57fbde87f54042)
 
 ## Builder
+## Tier System
 
+- Bronze: 0-49 points
+- Silver: 50-199 points  
+- Gold: 200-499 points
+- Diamond: 500+ points
 [@Huzaifa_0101](https://twitter.com/Huzaifa_0101) — Active on Base since February 2024
 
 ## License
